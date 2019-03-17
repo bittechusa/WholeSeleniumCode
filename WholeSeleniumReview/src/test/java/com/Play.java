@@ -221,6 +221,14 @@ public class Play
 		maven compiler plugin to compile project*/
 	}
 	
+	public void gitPrac()
+	{
+		//git status
+		//git log  git blame, git revert,git bracnh branchname
+		//git checkout branchname
+		//git stash, git diff 
+	}
+	
 	
 	
 	
