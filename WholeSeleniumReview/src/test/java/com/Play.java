@@ -224,10 +224,26 @@ public class Play
 	public void gitPrac()
 	{
 		//git status
-		//git log  git blame, git revert,git bracnh branchname
+		//git log  git blame, git revert,git branch branchname
 		//git checkout branchname
 		//git stash, git diff 
+		/*what was the process of git
+		we use branching concept
+		i had my own branch where i wrote code
+		then i push into my branch then create a pull request to reviewr
+		thrn reviewer will review the if code is ok then my job is done
+		otherwise i have to do same process again*/
 	}
+	
+	public void gridPrac()
+	{
+		/*start hub
+		register node
+		write code using DesiredCapabilities class
+		Define RemoteWebdriver class
+		configure testng.xml file to run test case parallaly*/
+	}
+	
 	
 	
 	
